@@ -180,32 +180,44 @@
 # print("Toatal:", total)
 # print("Average:", average)
 
-name = input("Enter your name:")
-age = int(input("Enter your age:"))
-college =input("Enter your college:")
-phone = int(input("Enter your phone:"))
-email = input("Enter your email:")
+# name = input("Enter your name:")
+# age = int(input("Enter your age:"))
+# college =input("Enter your college:")
+# phone = int(input("Enter your phone:"))
+# email = input("Enter your email:")
 
 
-maths = int(input("Enter maths marks:"))
-social = int(input("Enter social marks:"))
-english = int(input("Enter english marks:"))
-hindi = int(input("Enter hindi marks:"))
-physics = int(input("Enter physics marks:"))
+# maths = int(input("Enter maths marks:"))
+# social = int(input("Enter social marks:"))
+# english = int(input("Enter english marks:"))
+# hindi = int(input("Enter hindi marks:"))
+# physics = int(input("Enter physics marks:"))
 
-total = maths+social+english+hindi+physics
-average = total/5
+# total = maths+social+english+hindi+physics
+# average = total/5
 
-print("Name:", name)
-print("Age:", age)
-print("College:", college)
-print("Phone:", phone)
-print("Email:", email)
-print("Maths:", maths)
-print("Social:", social)
-print("English:", english)
-print("Hindi:", hindi)
-print("Physics:", physics)
+# print("Name:", name)
+# print("Age:", age)
+# print("College:", college)
+# print("Phone:", phone)
+# print("Email:", email)
+# print("Maths:", maths)
+# print("Social:", social)
+# print("English:", english)
+# print("Hindi:", hindi)
+# print("Physics:", physics)
 
-print("Total:", total)
-print("Average: average")
+# print("Total:", total)
+# print("Average: average")
+
+
+
+#
+# name = input("Enter your name:")
+# age = int(input("Enter your age:"))
+# heigth = float(input("Enter your heigth:"))
+
+# print("Name",name)
+# print("Age",age)
+# print("Heigth",heigth)
+

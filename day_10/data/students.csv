@@ -1,0 +1,13 @@
+id,name,city,department,maths,physics,python,attendance
+1,Asha,Hyderabad,CSE,78,82,91,92
+2,Ravi,Bangalore,ECE,65,70,58,81
+3,Meena,Hyderabad,CSE,88,79,95,96
+4,Karthik,Chennai,IT,54,88,62,74 
+5,Sneha,hyderabad,IT,91,89,,88
+6, Imran,Bangalore,CSE,72,68,80,79 
+7,Divya,Chennai,ECE,60,65,55,10
+8,Rahul,Hyderabad,IT,,77,89,90 
+
+9,Priya,Bangalore,CSE,95,92,98,97 
+10,Vikram,Chennai,ECE,47,52,49,68 
+11,Anjali,Hyderabad,CSE,69,74,77,85
